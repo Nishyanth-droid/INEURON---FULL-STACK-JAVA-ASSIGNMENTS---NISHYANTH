@@ -1,7 +1,5 @@
-
 public class Assignment1_Question1 {
-
-	public static void main(String[] args) {
+    public static void main(String[] args) {
 		int n = 11;
 		//printing I
 		for(int i = 0 ; i < n ; i++) {
@@ -86,7 +84,5 @@ public class Assignment1_Question1 {
 			}
 			System.out.println();
 		}
-
 	}
-
 }
